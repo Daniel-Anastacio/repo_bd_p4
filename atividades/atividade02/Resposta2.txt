@@ -1,0 +1,8 @@
+Sitema Isolado
+
+Sistema isolado é aquele cujo as informações não são compartilhadas entrte os "departamentos" desse sistema, de modo que a mesma informação esteja contida em dois departamentos ao mesmo tempo. Cada departamento possui seu prórpio banco de dados.
+
+
+Sistema Integrado
+
+Sistema integrado é aquele cujo as informações são compartilhadas entre os "departamentos" desse sistema, de modo que uma mesma informção não se repita ou que pelo menos não seja escrita da mesma forma já que um único banco de dados pode ser acessado por todos os departamentos do sistema.

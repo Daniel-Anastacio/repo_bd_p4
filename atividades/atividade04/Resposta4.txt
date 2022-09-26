@@ -1,0 +1,14 @@
+a) Entidade;
+	A entidade é uma representação de um conjunto de informações sobre determinado conceito no banco de dados.s
+b) Relacionamento;
+	Interações entre entidades
+c) Atributo;
+	Característica de uma entidade
+d) Domínio de um Atributo;
+	Possíveis valores que um atributo pode receber
+e) Generalização/especialização;
+	Generalização é transformar duas ou mais entidades em apenas uma só trazendo como definição algo comum entre elas, tornando a definição mais genérica. Já a especialização trata-se da separação de uma entidade em duas ou mais de modo que em suas definições sejam destacadas suas diferenças.
+f) Entidade Associativa;
+	 Entidade gerada a partir de um relacionamento de muitos para muitos 
+g) Cardinalidade de um Atributo.
+	A cardinalidade refere-se ao número máximo e mínimo que uma entidade pode ter de um determinado atributo.

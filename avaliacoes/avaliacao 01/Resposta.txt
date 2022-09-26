@@ -1,0 +1,7 @@
+Banco de Dados = amontoado de dados de uso integrado que tem o objetivo de auxiliar um conjunto de usuários.
+
+Arquivo convencional = Amontoado de dados sem formato específico.
+
+Dado = O dado pode ser definido como o conhecimento bruto, que não pode ser usado para uma tomada de ação relevante, entretanto é muito importante para a formação de objetivos e de ideias centrais sobre determinado projeto.
+
+Informação = A informação pode ser definida como o amon toado de dados devidamente tratados que formam conhecimento relevante para a tomada de decisões.  Basicamente os dados se complementam para a formação de uma perspectiva que gera uma informação.

@@ -1,0 +1,11 @@
+Modelagem Conceitual
+
+Modelagem conceitual é o processo de criação de um banco de dados do ponto de vista prático e objetivo, são usados desenhos de simples entendimento para que possamos estabelecer objetivamente as entidades e relacionamentos.
+
+Projeto Lógico
+
+Trata-se de uma organização mais complexa que traz a modelagem do modo de armazemento de dados e na abordagem que será utilizada.
+
+Projeto Físico
+
+Trata-se do esquema SQL utilizado para acesso e armazamento dos dados para adequação ao SGBD, o foco está mais voltado para a programação.
